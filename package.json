@@ -15,7 +15,7 @@
   "name": "namaste_react",
   "description": "Learn React",
   "version": "1.0.0",
-  
+ 
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
